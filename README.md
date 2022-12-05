@@ -1,32 +1,38 @@
-# Project Title
+# MyNote
 
-Simple overview of use/purpose.
+Note application developed by .NET MAUI Framework (C#)
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Note application developed by .NET MAUI Framework (C#) and ASP.NET Web API connect with Oracle db
 
 ## Getting Started
 
-### Dependencies
+### NuGet for ASP.NET Web API 
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
+```
+```
+NuGet\Install-Package Oracle.EntityFrameworkCore -Version 6.21.61
 ```
 
-## Help
+### NuGet for MyNote
+
+```
+NuGet\Install-Package CommunityToolkit.Maui -Version 2.0.0
+```
+```
+NuGet\Install-Package CommunityToolkit.Mvvm -Version 8.0.0
+```
+```
+NuGet\Install-Package Newtonsoft.Json -Version 13.0.2
+```
+```
+NuGet\Install-Package Syncfusion.Maui.Core -Version 20.3.58
+```
+
+## How to run
 
 Any advise for common problems or issues.
 ```
