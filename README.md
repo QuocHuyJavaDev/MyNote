@@ -41,7 +41,7 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Developed by Lê Quốc Huy
 
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
