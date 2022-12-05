@@ -34,35 +34,20 @@ NuGet\Install-Package Syncfusion.Maui.Core -Version 20.3.58
 
 ## How to run
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Import all NuGet Package listed above
+* Run ASP.NET Web API application (Notice: Change applicationUrl to your IP & PORT in lauchSettings.json class)
+* Run MyNote
 
 ## Authors
 
 Developed by Lê Quốc Huy
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* [@QuocHuyFb](https://www.facebook.com/profile.php?id=100025364619780)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* .NET MAUI Framework 6.0
+    * See docs at [microsoft_MAUI_docs](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-6.0)
+* ASP.NET Web API 6.0
+    * See docs at [microsoft_ASP.NETCore6_docs](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-6.0](https://learn.microsoft.com/en-us/aspnet/core/mobile/native-mobile-backend?view=aspnetcore-6.0))
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
