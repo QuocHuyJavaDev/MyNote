@@ -49,5 +49,5 @@ Developed by Lê Quốc Huy
 * .NET MAUI Framework 6.0
     * See docs at [microsoft_MAUI_docs](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-6.0)
 * ASP.NET Web API 6.0
-    * See docs at [microsoft_ASP.NETCore6_docs](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-6.0](https://learn.microsoft.com/en-us/aspnet/core/mobile/native-mobile-backend?view=aspnetcore-6.0))
+    * See docs at [microsoft_ASP.NETCore6_docs](https://learn.microsoft.com/en-us/aspnet/core/mobile/native-mobile-backend?view=aspnetcore-6.0)
 
