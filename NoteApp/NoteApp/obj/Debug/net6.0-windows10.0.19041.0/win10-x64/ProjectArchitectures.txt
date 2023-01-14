@@ -1,1 +1,0 @@
-C:\Users\lequo\source\repos\NoteApp\NoteApp\NoteApp.csproj;x64
