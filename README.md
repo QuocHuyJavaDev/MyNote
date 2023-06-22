@@ -6,6 +6,12 @@ Note application developed by .NET MAUI Framework (C#)
 
 Note application developed by .NET MAUI Framework (C#) and ASP.NET Web API connect with Oracle db
 
+## Demo
+Mynote desktop
+https://user-images.githubusercontent.com/119832071/247810054-06ad3acc-e1ce-4041-8a78-edc265dd70a6.mp4
+
+
+
 ## Getting Started
 
 ### NuGet for ASP.NET Web API 
